@@ -1,5 +1,7 @@
 # Code Autocorrection Damerau-Levenshtein
 
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+
 Repositori ini memuat *command-line app* untuk menyarankan **nama variabel atau fungsi** terdekat berdasarkan algoritma **Damerau-Levenshtein**. Aplikasi mendukung dua skema ambang:
 
 - **Dynamic threshold** → `k = ceil(α·length)` dengan *retry* bertahap
